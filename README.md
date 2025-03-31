@@ -17,7 +17,7 @@ O projeto executa as seguintes etapas:
 ## Estrutura dos Arquivos
 
 - **`scraping.py`:** Código Python que realiza todas as etapas descritas acima.
-- **`anexos/`:** Pasta onde os PDFs baixados são armazenados.
+- **`pdfs/`:** Pasta onde os PDFs baixados são armazenados.
   - `Anexo_I.pdf`: Primeiro anexo baixado do site.
   - `Anexo_II.pdf`: Segundo anexo baixado do site.
 - **`compactado.zip`:** Arquivo `.zip` contendo os dois PDFs compactados.
